@@ -1,4 +1,4 @@
 # azure-devops
 This is a repo for azure devops
 
-## this was edited in Cloud sHell
+## this was edited in Cloud Shell
