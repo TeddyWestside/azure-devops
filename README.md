@@ -1,4 +1,13 @@
 # azure-devops
 This is a repo for azure devops
 
-## this was edited in Cloud Shell
+## install python environment
+
+```bash
+python -m venv ./env  
+
+source ./env/bin/activate
+
+pip install -r requirements.txt
+```
+
