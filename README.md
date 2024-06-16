@@ -1,5 +1,5 @@
 # azure-devops
-This is a repo for azure devops
+This is a repo for udacity nanodegree using azure devops
 
 ## install python environment
 
